@@ -1,6 +1,7 @@
 body{
   padding: 15px;
   background-color: #E7E7FF;
+  color: #1D1D4E;
   
 }
 
@@ -19,12 +20,14 @@ p{
   float: left;
   margin-right: 15px;
   width: 200px;
+  border: 1px #1D1D4E;
 }
 
 #jobbkep{
   float: right;
   width: 400px;
   margin: 10px;
+  border: 1px #1D1D4E;
 }
 
 table{
@@ -60,9 +63,10 @@ td:nth-child(2) {
   padding-top: 5px;
   border-top: 1px solid #1D1D4E;
   font-style: italic;
+  text-align: center;
 }
 
 img{
   box-shadow: 5px 5px 7px #1D1D4E;
-  border: 1px #1D1D4E;
+  
 }
